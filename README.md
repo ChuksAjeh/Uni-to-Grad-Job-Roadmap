@@ -45,7 +45,11 @@ Here are some project ideas, there will definitely be a tutorial for all of them
 12. Copycat app - an app that already exists try to build it yourself
 13. Data visualisation using python
 
-
+Here are some links to places with more ideas:
+	- 40 Side Project Ideas for Software Engineers | Codementor
+	- 1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming
+	- MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.
+42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!
  	
 
 
