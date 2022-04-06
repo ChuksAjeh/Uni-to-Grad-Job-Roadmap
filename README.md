@@ -80,7 +80,7 @@ Most companies will have multiple rounds for interviews. These roughly fall into
 
 It is important to prepare for both, you can be a strong coder and still fail as you suck social skills wise. For the technical interview make sure you have a programming language you are comfortable with. Most people recommend python or Java. You may be required to do the interview in the language you also applying for e.g. C++. So learn it and be very comfortable with it.
 
-# Technical:
+### Technical:
 
 Technical interviews come in a number of forms:
 - **Phone interview** - this is a simple phone call where you will share your screen via a coding whiteboard link. You won't see the interviewers face but you will be asked a coding question and will be able to ask clarifying questions. **Tip: Practice leetcode and have a thorough understanding of algorithms and data structures. The problems asked are rooted in these. Other topics potentially asked are: Dynamic programming - memoisation**
@@ -93,7 +93,7 @@ Technical interviews come in a number of forms:
 	
 - **Timed coding interview question** - You're given a link to solve a coding question(s) usually a leetcode question. You have x amount of minutes. Solve it/them before then.  Make sure to include comments and code in a way that is clear but also efficient. No point making an efficient code but hard to read. 
 
-# Leetcode:
+#### Leetcode:
 
 Ahh the dreaded leetcode. It's like Dark Souls or if we're being up to date, Elden Ring. There is only one thing you can do for this: GIT GUD. That's it. Why you might ask?  This is where you will find most if not all interview questions by companies. Other sites do questions too, like hackerrank, codility etc. But these places are where you will do the interview questions by companies when they send links or want to pair over zoom for an interview etc. Leetcode is HARD. Even the easy questions. Don’t be upset if you can't do them just yet, practice makes perfect! Luckily I'm not so mean as to not give you the the resources to actually get better:
 
@@ -109,7 +109,7 @@ These youtubers are my go to if you ever get stuck:
 - [Kevin Naughton Jr](https://www.youtube.com/c/KevinNaughtonJr)
 - [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 
-# Behavioural:
+### Behavioural:
 When going into this it is important to:
 	- To know the company and its values
 	- A piece of recent news about the company
@@ -121,7 +121,7 @@ Formats:
 
 The worst thing you can be is not prepared, just wasting your own time and an application really. No seriously some companies ban you from applying again for 6-12 months…
 
-# Job Postings:
+## Job Postings:
 
 After prepping for interviews it's time to find a job to interview for! That's where these links come in.
 
