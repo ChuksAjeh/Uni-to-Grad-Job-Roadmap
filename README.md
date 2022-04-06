@@ -8,7 +8,7 @@ So you want a grad job… Well welcome to the grind, it absolutely sucks… Sorr
 
 I know some of like your sources [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
 
-Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, i'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you and I don't care, information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got in themselves.  
+Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, i'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you and I don't care to. Information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got in themselves.  
 
 ## CV/Resume:
 
@@ -126,9 +126,38 @@ After prepping for interviews it's time to find a job to interview for! That's w
 	- MilkRound - another good one for grads - [MilkRound](https://www.milkround.com/)
 	- Levels.fyi - this is where you can find salaries for the positions you're applying to recommend using it to be informed when you're applying. - [Level.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 
-Please remember that hiring is done in cycles. DO NOT, I repeat DO NOT wait until university is over. THERE WILL BE NOTHING LEFT. You don't want to be like this with your friends when they get offers now do you.
+Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. You don't want to be like this with your friends when they get offers now do you.
 
 ![hiding tears](https://user-images.githubusercontent.com/22524187/162068171-8c2665ca-6c39-4b00-9ccc-b403fe028cb3.jpg)
+
+SO, apply **early** negotiate the starting date THEN relax. In my experience cycles are typically:
+
+**August - January/Februrary/March** - Big Investment Banks, hedge funds, Finance companies, top fintech, FAANG (Pay really well! Super competitive) Note: FAANG/MANGA stands for Meta/Facebook, Apple, Amazon, Google, Netflix Microsoft. Apply early. (Pay: £35/45k - £100k+) Note: very few companies are 100+ and are very competitive e.g Jane Street is £200k but they're probably taking like two grads across the country.
+
+**Note: For legal reasons, I don't know how many grads Jane street take and exact grad pay, it's just to emphasise my point on how hard it is to get it in and that I know pay is well above normal grad salary of £25k. Don't come for my neck!**
+
+**Jan  -March/May** - Everyone else. All the 'standard' companies (Pay is average or slightly above £25-30k) and some great companies, real diamonds also start during this time
+
+**May - June onwards** - End of uni (bad reality) - This is about the scraps… If you wait till the end of uni, be prepared to find the scraps (companies no one wants to go to) or small companies still open (startups, small companies, companies with nonstandard hiring drives etc) if you find a good company congrats you're lucky. But if you're looking for a good/big company, well you're too late. Better luck next year.
+
+These are my rough estimates for timelines of companies of all ranges. As you can see the is a large overlap and hiring drives change all the time. If unsure just message a recruiter on LinkedIn, they don't care they'll happy tell you, also COULD, put you in their good books for being proactive. Again, If you don’t want to be disappointed **APPLY EARLY**. I don’t want to scare you I'm just being honest. Saw enough of my fellow cohort and linkedIn posts to make this case.
+
+Don’t be this guy ->
+
+![clown](https://user-images.githubusercontent.com/22524187/162069920-5122bff6-e1cd-43de-9ab6-d9d8a0aded60.jpg)
+
+**Note: For legal reasons, please understand I am not belittling anyone, this is intended to be tongue in cheek, whilst giving good advice. I am well aware there are students that did all of the above and still didn’t get a grad job. The game is the game, I am just trying for people to be in the best position they can be in. Don't come for my neck!**
+
+## Keep Track of Applications:
+It's important to keep track of your applications and their status. It will make it easier, when looking at offers their deadlines and then being able to negotiate. Also important to have that friend to cry on when you see all the red highlights from rejections. :joy:
+
+[Application_Spreadsheet.xlsx](https://github.com/ChuksAjeh/Uni-to-Grad-Job-Roadmap/files/8430548/Application_Spreadsheet.xlsx)
+
+## Final Words:
+
+GOOD LUCK! It's going to be hard, there'll be a few absolute bombers, a few close ones, but ultimately, you will land one just keep pushing on!
+![might guy#](https://user-images.githubusercontent.com/22524187/162070313-7d11799c-ef24-4200-9f0f-a4e65775da96.jpg)
+
 
 
 
