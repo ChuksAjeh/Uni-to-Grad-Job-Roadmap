@@ -65,6 +65,7 @@ For any projects that are on github, I recommend getting familiar with git and g
 [Learn Git in 15minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 ## Wider community and asking questions:
+
 - [CS Career questions EU](https://www.reddit.com/r/cscareerquestionsEU/) can ask questions and see what other grads as well as more experienced people are asking. Also helps for figuring out you should be paid more for your work xD.
 - Discord: There are loads of servers that contain programming communities that help you with problems or projects. I've provided a starting one: [print('Hello Creator')](https://discord.gg/rs4WDJVtfh)
 - StackOverflow - community of other devs that are willing to help. BEWARE they can be mean.
@@ -78,18 +79,20 @@ Most companies will have multiple rounds for interviews. These roughly fall into
 It is important to prepare for both, you can be a strong coder and still fail as you suck social skills wise. For the technical interview make sure you have a programming language you are comfortable with. Most people recommend python or Java. You may be required to do the interview in the language you also applying for e.g. C++. So learn it and be very comfortable with it.
 
 # Technical:
+
 Technical interviews come in a number of forms:
-- Phone interview - this is a simple phone call where you will share your screen via a coding whiteboard link. You won't see the interviewers face but you will be asked a coding question and will be able to ask clarifying questions. **Tip: Practice leetcode and have a thorough understanding of algorithms and data structures. The problems asked are rooted in these. Other topics potentially asked are: Dynamic programming - memoisation**
+- **Phone interview** - this is a simple phone call where you will share your screen via a coding whiteboard link. You won't see the interviewers face but you will be asked a coding question and will be able to ask clarifying questions. **Tip: Practice leetcode and have a thorough understanding of algorithms and data structures. The problems asked are rooted in these. Other topics potentially asked are: Dynamic programming - memoisation**
 	
-- Take home Assignment - this can either be at the start or in later rounds. It usually an assignment that will take a couple of hours to complete, with instructions on the problem they want you to solve. It won't be a data structure or algo question but more like a mini coding project that is incomplete. 
+- **Take home Assignment** - this can either be at the start or in later rounds. It usually an assignment that will take a couple of hours to complete, with instructions on the problem they want you to solve. It won't be a data structure or algo question but more like a mini coding project that is incomplete. 
 	
-- Whiteboard/zoomboard interview - This is the same as the phone interview except it will be in person of over zoom and can see each other and interact a bit more.
+- **Whiteboard/zoomboard interview** - This is the same as the phone interview except it will be in person of over zoom and can see each other and interact a bit more.
 	
-- Reviewing a past work (usually for new grads and interns) - This will be where the ask for a piece of work you have done. The interviewer will ask questions about design choices, ask about possible improvements that you could have done, or if you could do it again what would you do differently. **Tip: make sure you are familiar with the project you are presenting. Looks worse if you don’t know what you did - you wrote it!**
+- **Reviewing a past work (usually for new grads and interns)** - This will be where the ask for a piece of work you have done. The interviewer will ask questions about design choices, ask about possible improvements that you could have done, or if you could do it again what would you do differently. **Tip: make sure you are familiar with the project you are presenting. Looks worse if you don’t know what you did - you wrote it!**
 	
-- Timed coding interview question - You're given a link to solve a coding question(s) usually a leetcode question. You have x amount of minutes. Solve it/them before then.  Make sure to include comments and code in a way that is clear but also efficient. No point making an efficient code but hard to read. 
+- **Timed coding interview question** - You're given a link to solve a coding question(s) usually a leetcode question. You have x amount of minutes. Solve it/them before then.  Make sure to include comments and code in a way that is clear but also efficient. No point making an efficient code but hard to read. 
 
 # Leetcode:
+
 Ahh the dreaded leetcode. It's like Dark Souls or if we're being up to date, Elden Ring. There is only one thing you can do for this: GIT GUD. That's it. Why you might ask?  This is where you will find most if not all interview questions by companies. Other sites do questions too, like hackerrank, codility etc. But these places are where you will do the interview questions by companies when they send links or want to pair over zoom for an interview etc. Leetcode is HARD. Even the easy questions. Don’t be upset if you can't do them just yet, practice makes perfect! Luckily I'm not so mean as to not give you the the resources to actually get better:
 
 - Leetcode - The site where the interview questions are. In a perfect world a leetcode question a day and you're golden. Obviously, do more if you're trying to get a job. Most interview questions will be at medium level: [Leetcode](https://leetcode.com/)
@@ -131,7 +134,8 @@ After prepping for interviews it's time to find a job to interview for! That's w
 
 Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. You don't want to be like this with your friends when they get offers now do you.
 
-![hiding tears](https://user-images.githubusercontent.com/22524187/162068171-8c2665ca-6c39-4b00-9ccc-b403fe028cb3.jpg)
+![1nhqil](https://user-images.githubusercontent.com/22524187/162072249-1cd3f6d7-a5f4-4dc6-9556-a3cfe3ac640d.jpg)
+
 
 SO, apply **early** negotiate the starting date THEN relax. In my experience cycles are typically:
 
