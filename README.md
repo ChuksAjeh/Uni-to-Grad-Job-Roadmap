@@ -4,6 +4,7 @@ A personal guide I made for friends based on my experience when getting a SWE gr
 ## Intro:
 
 So you want a grad job… Well welcome to the grind, it absolutely sucks… Sorry I should be more positive! It… erm… yeah no it sucks. Can't really spin this. But, hopefully this rough guide will help you to land one. This was my approach, not saying it's the gold standard, but considering the graduate unemployment sits at roughly 11% for compsci students, I'd wager it’s better than nothing!
+
 ![smile meme](https://user-images.githubusercontent.com/22524187/161431503-d5f622ef-9d9d-41d5-ab43-3228ce52dee7.jpg)
 
 I know some of like your sources [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
@@ -53,6 +54,7 @@ Here are some project ideas, there will definitely be a tutorial for all of them
 13. Data visualisation using python
 
 Here are some links to places with more ideas:
+
 - [40 Side Project Ideas for Software Engineers | Codementor](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 - [1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 - [MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
