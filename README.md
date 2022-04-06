@@ -72,14 +72,13 @@ It is important to prepare for both, you can be a strong coder and still fail as
 
 # Technical:
 Technical interviews come in a number of forms:
-- Phone interview - this is a simple phone call where you will share your screen via a coding whiteboard link. You won't see the interviewers face but you will be asked a coding question and will be able to ask clarifying questions. Tip: Practice leetcode and have a thorough understanding of algorithms and data structures. The problems asked are rooted in these. Other topics potentially asked are:
-		- Dynamic programming - memoisation
+- Phone interview - this is a simple phone call where you will share your screen via a coding whiteboard link. You won't see the interviewers face but you will be asked a coding question and will be able to ask clarifying questions. **Tip: Practice leetcode and have a thorough understanding of algorithms and data structures. The problems asked are rooted in these. Other topics potentially asked are: Dynamic programming - memoisation**
 	
 - Take home Assignment - this can either be at the start or in later rounds. It usually an assignment that will take a couple of hours to complete, with instructions on the problem they want you to solve. It won't be a data structure or algo question but more like a mini coding project that is incomplete. 
 	
 - Whiteboard/zoomboard interview - This is the same as the phone interview except it will be in person of over zoom and can see each other and interact a bit more.
 	
-- Reviewing a past work (usually for new grads and interns) - This will be where the ask for a piece of work you have done. The interviewer will ask questions about design choices, ask about possible improvements that you could have done, or if you could do it again what would you do differently. Tip: make sure you are familiar with the project you are presenting. Looks worse if you don’t know what you did - you wrote it!
+- Reviewing a past work (usually for new grads and interns) - This will be where the ask for a piece of work you have done. The interviewer will ask questions about design choices, ask about possible improvements that you could have done, or if you could do it again what would you do differently. **Tip: make sure you are familiar with the project you are presenting. Looks worse if you don’t know what you did - you wrote it!**
 	
 - Timed coding interview question - You're given a link to solve a coding question(s) usually a leetcode question. You have x amount of minutes. Solve it/them before then.  Make sure to include comments and code in a way that is clear but also efficient. No point making an efficient code but hard to read. 
 
