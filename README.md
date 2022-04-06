@@ -51,6 +51,13 @@ Here are some links to places with more ideas:
 - [MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
 - [42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0)
  	
+Note: Some projects will be harder than others. No shame in using a tutorial to complete them! The third bullet point is a link to open source projects that are geared towards beginners this is another greate way to show off your skills and passion (cringe). 
+
+For any projects that are on github, I recommend getting familiar with git and github. I've added a link for this below:
+
+[Learn Git in 15minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+
+
 
 
 
