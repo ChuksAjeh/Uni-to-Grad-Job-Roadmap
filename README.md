@@ -121,13 +121,13 @@ The worst thing you can be is not prepared, just wasting your own time and an ap
 After prepping for interviews it's time to find a job to interview for! That's where these links come in.
 
  Don’t just look at Gradcracker! Build relationships with recruiters
-	- LinkedIn - Set Up Alerts for Junior developer and Graduate Roles
-	- GradCracker - more for grad Schemes not immediate though - [Gradcracker](https://www.gradcracker.com/)
-	- Oho Group - High Paying fintech usually like C++ - [Oho Group](https://www.oho.co.uk/)
-	- ITecco - register and/or call have bunch of dev and grad jobs most students will never see - [Itecco](https://www.itecco.co.uk/jobs?query=junor+developer&commit=)
-	- Client Server - These recruiters will usually call you about jobs - [Client Server](https://www.client-server.com/)
-	- MilkRound - another good one for grads - [MilkRound](https://www.milkround.com/)
-	- Levels.fyi - this is where you can find salaries for the positions you're applying to recommend using it to be informed when you're applying. - [Level.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+- LinkedIn - Set Up Alerts for Junior developer and Graduate Roles
+- GradCracker - more for grad Schemes not immediate though - [Gradcracker](https://www.gradcracker.com/)
+- Oho Group - High Paying fintech usually like C++ - [Oho Group](https://www.oho.co.uk/)
+- ITecco - register and/or call have bunch of dev and grad jobs most students will never see - [Itecco](https://www.itecco.co.uk/jobs?query=junor+developer&commit=)
+- Client Server - These recruiters will usually call you about jobs - [Client Server](https://www.client-server.com/)
+- MilkRound - another good one for grads - [MilkRound](https://www.milkround.com/)
+- Levels.fyi - this is where you can find salaries for the positions you're applying to recommend using it to be informed when you're applying. - [Level.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 
 Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. You don't want to be like this with your friends when they get offers now do you.
 
