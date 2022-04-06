@@ -137,7 +137,6 @@ Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait 
 ![EZ5JJspWAAg9Sod](https://user-images.githubusercontent.com/22524187/162072451-8e894f5a-582a-4599-a359-957dfbcc8caf.jpg)
 
 
-
 SO, apply **early** negotiate the starting date THEN relax. In my experience cycles are typically:
 
 **August - January/Februrary/March** - Big Investment Banks, hedge funds, Finance companies, top fintech, FAANG (Pay really well! Super competitive) Note: FAANG/MANGA stands for Meta/Facebook, Apple, Amazon, Google, Netflix Microsoft. Apply early. (Pay: £35/45k - £100k+) Note: very few companies are 100+ and are very competitive e.g Jane Street is £200k but they're probably taking like two grads across the country.
@@ -152,7 +151,7 @@ These are my rough estimates for timelines of companies of all ranges. As you ca
 
 Don’t be this guy ->
 
-![clown](https://user-images.githubusercontent.com/22524187/162069920-5122bff6-e1cd-43de-9ab6-d9d8a0aded60.jpg)
+![clown](https://media.giphy.com/media/x0npYExCGOZeo/giphy.gif)
 
 **Note: For legal reasons, please understand I am not belittling anyone, this is intended to be tongue in cheek, whilst giving good advice. I am well aware there are students that did all of the above and still didn’t get a grad job. The game is the game, I am just trying for people to be in the best position they can be in. Don't come for my neck!**
 
