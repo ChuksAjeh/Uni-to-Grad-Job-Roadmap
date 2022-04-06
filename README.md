@@ -159,6 +159,8 @@ It's important to keep track of your applications and their status. It will make
 ## Final Words:
 
 GOOD LUCK! It's going to be hard, there'll be a few absolute bombers, a few close ones, but ultimately, you will land one just keep pushing on!
+
+
 ![](https://media.giphy.com/media/5USTijryafZEQ/giphy.gif)
 
 
