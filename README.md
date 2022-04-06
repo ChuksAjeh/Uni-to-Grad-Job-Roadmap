@@ -116,12 +116,12 @@ When going into this it is important to:
 	- STAR technique - make sure you know this inside and out MANGA/FAANG and big bank companies love this…
 
 Formats:
-	- CV review culture fit interview: This is to see if you have the relevant experience and fit in the company culture. It is important your answers align with the company values SUBTLY so as to show you are what they are looking for. 
-	- Situational Judgement questions - these are usually automated so you can choose but they are games to see if you are a fit again. Make sure to answer truthfully but in a way that aligns with company values. 
+- CV review culture fit interview: This is to see if you have the relevant experience and fit in the company culture. It is important your answers align with the company values SUBTLY so as to show you are what they are looking for. 
+- Situational Judgement questions - these are usually automated so you can choose but they are games to see if you are a fit again. Make sure to answer truthfully but in a way that aligns with company values. 
 
 The worst thing you can be is not prepared, just wasting your own time and an application really. No seriously some companies ban you from applying again for 6-12 months…
 
-#Job Postings:
+# Job Postings:
 
 After prepping for interviews it's time to find a job to interview for! That's where these links come in.
 
