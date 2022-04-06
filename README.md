@@ -23,7 +23,10 @@ It is important relevant skills such as programming languages are in bold. If th
 ## Project Ideas:
 
 Now for whatever reason you may not have projects…
+
+
 ![bbal](https://media.giphy.com/media/xL7PDV9frcudO/giphy.gif)
+
 
 WHY DON'T YOU HAVE PROJECTS!?!?
 
