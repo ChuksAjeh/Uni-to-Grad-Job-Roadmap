@@ -46,10 +46,10 @@ Here are some project ideas, there will definitely be a tutorial for all of them
 13. Data visualisation using python
 
 Here are some links to places with more ideas:
-	- 40 Side Project Ideas for Software Engineers | Codementor
-	- 1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming
-	- MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.
-42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!
+	- [40 Side Project Ideas for Software Engineers | Codementor](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+	- [1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
+	- [MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
+	- [42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0)
  	
 
 
