@@ -134,7 +134,8 @@ After prepping for interviews it's time to find a job to interview for! That's w
 
 Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. You don't want to be like this with your friends when they get offers now do you.
 
-![1nhqil](https://user-images.githubusercontent.com/22524187/162072249-1cd3f6d7-a5f4-4dc6-9556-a3cfe3ac640d.jpg)
+![EZ5JJspWAAg9Sod](https://user-images.githubusercontent.com/22524187/162072451-8e894f5a-582a-4599-a359-957dfbcc8caf.jpg)
+
 
 
 SO, apply **early** negotiate the starting date THEN relax. In my experience cycles are typically:
