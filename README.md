@@ -57,6 +57,11 @@ For any projects that are on github, I recommend getting familiar with git and g
 
 [Learn Git in 15minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
+## Wider community and asking questions:
+- [CS Career questions EU](https://www.reddit.com/r/cscareerquestionsEU/) can ask questions and see what other grads as well as more experienced people are asking. Also helps for figuring out you should be paid more for your work xD.
+- Discord: There are loads of servers that contain programming communities that help you with problems or projects. [Discord Server](https://discord.gg/rnun9KRV)
+- StackOverflow - community of other devs that are willing to help. BEWARE they can be mean.
+
 
 
 
