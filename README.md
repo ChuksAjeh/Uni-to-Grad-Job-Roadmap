@@ -6,6 +6,10 @@ A personal guide I made for friends based on my experience when getting a SWE gr
 So you want a grad job… Well welcome to the grind, it absolutely sucks… Sorry I should be more positive! It… erm… yeah no it sucks. Can't really spin this. But, hopefully this rough guide will help you to land one. This was my approach, not saying it's the gold standard, but considering the graduate unemployment sits at roughly 11% for compsci students, I'd wager it’s better than nothing!
 ![smile meme](https://user-images.githubusercontent.com/22524187/161431503-d5f622ef-9d9d-41d5-ab43-3228ce52dee7.jpg)
 
+I know some of like your sources [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
+
+Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, i'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you and I don't care, information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got in themselves.  
+
 ## CV/Resume:
 
 Chances are your CV is not up to scratch. That's to be expected, especially if you haven't done any internships.
@@ -82,6 +86,49 @@ Technical interviews come in a number of forms:
 	
 - Timed coding interview question - You're given a link to solve a coding question(s) usually a leetcode question. You have x amount of minutes. Solve it/them before then.  Make sure to include comments and code in a way that is clear but also efficient. No point making an efficient code but hard to read. 
 
+# Leetcode:
+Ahh the dreaded leetcode. It's like Dark Souls or if we're being up to date, Elden Ring. There is only one thing you can do for this: GIT GUD. That's it. Why you might ask?  This is where you will find most if not all interview questions by companies. Other sites do questions too, like hackerrank, codility etc. But these places are where you will do the interview questions by companies when they send links or want to pair over zoom for an interview etc. Leetcode is HARD. Even the easy questions. Don’t be upset if you can't do them just yet, practice makes perfect! Luckily I'm not so mean as to not give you the the resources to actually get better:
+
+- Leetcode - The site where the interview questions are. In a perfect world a leetcode question a day and you're golden. Obviously, do more if you're trying to get a job. Most interview questions will be at medium level: [Leetcode](https://leetcode.com/)
+	
+-  75 leetcode questions. A super nice engineer broke down the pattern and style that most coding interviews come in. they fall into a number of specific groups. I recommend using this to become proficient at leetcode: [75 Leetcode questions](https://www.techinterviewhandbook.org/best-practice-questions/#week-1---sequences)
+	
+Understanding data structures (don’t need to watch it all ): [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer!](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+These youtubers are my go to if you ever get stuck:
+- [Nick White](https://www.youtube.com/c/NickWhite)
+- [CSDojo](https://www.youtube.com/c/CSDojo)
+- [Kevin Naughton Jr](https://www.youtube.com/c/KevinNaughtonJr)
+- [Back to Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+
+# Behavioural:
+When going into this it is important to:
+	- To know the company and its values
+	- A piece of recent news about the company
+	- STAR technique - make sure you know this inside and out MANGA/FAANG and big bank companies love this…
+
+Formats:
+	- CV review culture fit interview: This is to see if you have the relevant experience and fit in the company culture. It is important your answers align with the company values SUBTLY so as to show you are what they are looking for. 
+	- Situational Judgement questions - these are usually automated so you can choose but they are games to see if you are a fit again. Make sure to answer truthfully but in a way that aligns with company values. 
+
+The worst thing you can be is not prepared, just wasting your own time and an application really. No seriously some companies ban you from applying again for 6-12 months…
+
+#Job Postings:
+
+After prepping for interviews it's time to find a job to interview for! That's where these links come in.
+
+ Don’t just look at Gradcracker! Build relationships with recruiters
+	- LinkedIn - Set Up Alerts for Junior developer and Graduate Roles
+	- GradCracker - more for grad Schemes not immediate though - [Gradcracker](https://www.gradcracker.com/)
+	- Oho Group - High Paying fintech usually like C++ - [Oho Group](https://www.oho.co.uk/)
+	- ITecco - register and/or call have bunch of dev and grad jobs most students will never see - [Itecco](https://www.itecco.co.uk/jobs?query=junor+developer&commit=)
+	- Client Server - These recruiters will usually call you about jobs - [Client Server](https://www.client-server.com/)
+	- MilkRound - another good one for grads - [MilkRound](https://www.milkround.com/)
+	- Levels.fyi - this is where you can find salaries for the positions you're applying to recommend using it to be informed when you're applying. - [Level.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+
+Please remember that hiring is done in cycles. DO NOT, I repeat DO NOT wait until university is over. THERE WILL BE NOTHING LEFT. You don't want to be like this with your friends when they get offers now do you.
+
+![hiding tears](https://user-images.githubusercontent.com/22524187/162068171-8c2665ca-6c39-4b00-9ccc-b403fe028cb3.jpg)
 
 
 
