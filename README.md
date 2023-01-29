@@ -120,7 +120,7 @@ Formats:
 - CV review culture fit interview: This is to see if you have the relevant experience and fit in the company culture. It is important your answers align with the company values SUBTLY so as to show you are what they are looking for. 
 - Situational Judgement questions - these are usually automated so you can choose but they are games to see if you are a fit again. Make sure to answer truthfully but in a way that aligns with company values. 
 
-The worst thing you can be is not prepared, just wasting your own time and an application really. No seriously some companies ban you from applying again for 6-12 months…
+The worst thing you can be is not prepared, just wasting your own time and an application really. No seriously, some companies ban you from applying again for 6-12 months…
 
 ## Job Postings:
 
@@ -135,7 +135,7 @@ After prepping for interviews it's time to find a job to interview for! That's w
 - MilkRound - another good one for grads - [MilkRound](https://www.milkround.com/)
 - Levels.fyi - this is where you can find salaries for the positions you're applying to recommend using it to be informed when you're applying. - [Level.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 
-Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. You don't want to be like this with your friends when they get offers now do you.
+Please remember that hiring is done in cycles. **DO NOT**, I repeat DO NOT wait until university is over. **THERE WILL BE NOTHING LEFT**. For some reason university students get the bright idea to apply at the end of FINAL year. I can't tell whether it's laziness or the fear of juggling multiple commitments. Regardless, you don't want to be like this with your friends when they get offers now do you:
 
 ![EZ5JJspWAAg9Sod](https://user-images.githubusercontent.com/22524187/162072451-8e894f5a-582a-4599-a359-957dfbcc8caf.jpg)
 
