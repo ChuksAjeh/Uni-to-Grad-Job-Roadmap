@@ -10,7 +10,7 @@ So you want a grad job… Well welcome to the grind, it absolutely sucks… Sorr
 
 I know some of like your sources: [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
 
-Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, I'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know youl, and I don't care to. Information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got in themselves.  
+Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, I'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you, and I don't care to. Information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got in themselves.  
 
 ## CV/Resume:
 
