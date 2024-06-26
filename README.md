@@ -60,7 +60,7 @@ Here are some links to places with more ideas:
 - [1000+ Beginner Programming Projects (x-post /r/programming) : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 - [MunGell/awesome-for-beginners: A list of awesome beginners-friendly projects.](https://github.com/MunGell/awesome-for-beginners)
 - [42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0)
-- [https://github.com/practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [project-based-learning by programming language](https://github.com/practical-tutorials/project-based-learning)
  	
 Note: Some projects will be harder than others. No shame in using a tutorial to complete them! The third bullet point is a link to open source projects that are geared towards beginners this is another greate way to show off your skills and passion (cringe). 
 
