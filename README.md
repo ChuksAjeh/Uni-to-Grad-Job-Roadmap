@@ -1,16 +1,16 @@
 
 # Uni-to-Grad-Job-Roadmap
-A personal guide I made for friends based on my experience when getting a SWE graduate job!
+A personal guide I made for friends based on my experience when getting a SWE graduate job or Internship!
 
 ## Intro:
 
-So you want a grad job… Well welcome to the grind, it absolutely sucks… Sorry I should be more positive! It… erm… yeah no it sucks. Can't really spin this. But, hopefully this rough guide will help you to land one. This was my approach, not saying it's the gold standard, but considering the graduate unemployment sits at roughly 11% for compsci students, I'd wager it’s better than nothing!
+So you want a grad job or internship… Well welcome to the grind, it absolutely sucks… Sorry I should be more positive! It… erm… yeah no it sucks. Can't really spin this. But, hopefully this rough guide will help you to land one. This was my approach, not saying it's the gold standard, but considering the graduate unemployment sits at roughly 11% for compsci students, I'd wager it’s better than nothing!
 
 ![smile meme](https://user-images.githubusercontent.com/22524187/161431503-d5f622ef-9d9d-41d5-ab43-3228ce52dee7.jpg)
 
-I know some of like your sources: [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
+I know some of you like your sources: [Study International](https://www.studyinternational.com/news/uk-computer-science-has-the-highest-rate-of-unemployed-graduates/)
 
-Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, I'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you, and I don't care to. Information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get onto tech like some forex bro. FYI, they probably just got into it themselves.  
+Lastly, before we begin, you might be wondering why all this information is plastered here on a repo. Well, I'm not going to pretend to be noble and say "ItS BeCaUsE I WaNt EvErYoNe tO wIn!". Gross no, I don't know you, and I don't care to. Information should be free and easy to find. Plus I get to ruin a YouTube/Tiktok content creators day by making it so you don't get roped into their crappy course on how to get into tech like some forex bro. FYI, they probably just got into it themselves.  
 
 ## CV/Resume:
 
@@ -73,6 +73,18 @@ For any projects that are on github, I recommend getting familiar with git and g
 - [CS Career questions EU](https://www.reddit.com/r/cscareerquestionsEU/) can ask questions and see what other grads as well as more experienced people are asking. Also helps for figuring out you should be paid more for your work xD.
 - Discord: There are loads of servers that contain programming communities that help you with problems or projects. I've provided a starting one: [print('Hello Creator')](https://discord.gg/rs4WDJVtfh)
 - StackOverflow - community of other devs that are willing to help. BEWARE they can be mean.
+
+## Open Source:
+
+Another great way to get experience/showcase your skills is by contributing to open source. And when I mean contribute, I do not mean correcting a spelling mistake in the README or documentation. DON'T DO THAT. That's weird. 
+
+What I mean is picking up a genuine issue that seems interesting and accessible to you with your current skills, and trying to solve the issue. Reach out to the maintainers if you have questions, ask them if you can pick it up if it has been open for a while, or just take it and open a PR. A maintainer might suggest changes, or they might say it doesn't totally suck and merge it in! A great place to look for first or easy issues is the following site:
+
+- [Good First Issues](https://goodfirstissue.dev/)
+
+Here you can find issues sorted by programming language with varying projects from graphics to parsers to logging analytics. Anything. Contributing to these is a great way to stand out because it is not a templated project from scratch, it's an existing codebase with history, which means you need to wrap your head around someone else's code. Something you will do regularly in industry. Additionally it's not some project that a youtuber said on youtube that will now be on a hundred other CVs/Resumes.
+
+A piece of advice: It can be daunting contributing to open source. You will likely feel that people know more than you (they do. Sorry!) or that you aren't qualified to add to the codebase. Open source is open source for a reason it is for everyone to contribute to the overall canvas that is the project. Have a go, if your solution is rejected or there's changes requested, it is a learning experience. You might come across a way you haven't even considered coding in before just because you're so new to the field. 
 
 ## Preparing for Interviews:
 
