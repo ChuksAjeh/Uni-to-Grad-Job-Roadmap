@@ -34,9 +34,10 @@ WHY DON'T YOU HAVE PROJECTS!?!?
 
 There are only two reasons I can think of:
 1. You **DIDN'T** take my advice in the CV/Resume section, in which case **LOOK UP**.
-2. You're not a computer science student…
+2. You want projects besides your academic work (that makes sense)
+3. You're not a computer science student…
 
-THAT'S OKAY! This means this section is for you!
+THAT'S OKAY! This means this section is for you.
 
 Here are some project ideas, there will definitely be a tutorial for all of them:
 
@@ -62,7 +63,12 @@ Here are some links to places with more ideas:
 - [42 Projects to Practice Programming Skills | by Vardan Grigoryan (vardanator) | ITNEXT!](https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0)
 - [project-based-learning by programming language](https://github.com/practical-tutorials/project-based-learning)
  	
-Note: Some projects will be harder than others. No shame in using a tutorial to complete them! The third bullet point is a link to open source projects that are geared towards beginners this is another greate way to show off your skills and passion (cringe). 
+Note: Some projects will be harder than others. No shame in using a tutorial to complete them! The third bullet point is a link to open source projects that are geared towards beginners this is another greate way to show off your skills and passion (cringe). I will add a small caveat/aside. You are competing against other candidates. Choosing the more mainstream, easy to do projects, means you are less likely to stand out (what I mean is 1000 other people also did that project... probably choose something else).
+
+### Update: 
+Since I made this guide the market has become a lot more competitive. I would strongly recommend more unique and challenging projects rather than the traditional To-Do app. Maybe speak to people and see what problems people are having and how you could solve them. Maybe a church needs a website that can handle donations? Help them out. This shows experience working with a client
+
+Also I would recommend more complete projects - create projects that cover multiple areas of domain knowledge e.g. Create a web app. learn to dockerise the application, and deploy it to a cloud environment, (SAFELY, you don't want to wake up to a £20,000 bill), like google clout platform (GCP) or Amazon Web Services (AWS). Document your process and how to run/connect to the project. In this example you've worked with a language for backend, for frontend, docker, and a clould technology like 
 
 For any projects that are on github, I recommend getting familiar with git and github. I've added a link for this below:
 
@@ -85,6 +91,15 @@ What I mean is picking up a genuine issue that seems interesting and accessible 
 Here you can find issues sorted by programming language with varying projects from graphics to parsers to logging analytics. Anything. Contributing to these is a great way to stand out because it is not a templated project from scratch, it's an existing codebase with history, which means you need to wrap your head around someone else's code. Something you will do regularly in industry. Additionally it's not some project that a youtuber said on youtube that will now be on a hundred other CVs/Resumes.
 
 A piece of advice: It can be daunting contributing to open source. You will likely feel that people know more than you (they do. Sorry!) or that you aren't qualified to add to the codebase. Open source is open source for a reason it is for everyone to contribute to the overall canvas that is the project. Have a go, if your solution is rejected or there's changes requested, it is a learning experience. You might come across a way you haven't even considered coding in before just because you're so new to the field. 
+
+## Freelancing:
+
+Another option is to freelance! What better way to sharpen your skills and hopefully gain permanent employment than doing projects and purposefully getting underpaid... wait... What? Tongue-in-cheek joke aside, freelancing allows you to actually sell yourself and your skills and build experience taking client requirements and then translating that into a product to then sell. Whilst it is not exactly like corporate/startup work, given you are by yourself for the most part, this helps put projects on the CV that are real world applications. Something a lot of candidate especially new to the industry tend to lack. Sites that are great for getting start are:
+
+- [Fiverr](https://www.fiverr.com/?source=top_nav)
+- [Upwork](https://www.upwork.com/ab/account-security/login?redir=%2F)
+
+I will say this isn't the easiest however. There are many people that will offer similar services but landing even 1-2 and completing them will look good on the ol' resume.
 
 ## Preparing for Interviews:
 
