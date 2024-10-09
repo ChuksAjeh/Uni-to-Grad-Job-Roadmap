@@ -101,6 +101,10 @@ Another option is to freelance! What better way to sharpen your skills and hopef
 
 I will say this isn't the easiest however. There are many people that will offer similar services but landing even 1-2 and completing them will look good on the ol' resume.
 
+## Hackathons:
+
+Hackathons are a great way to meet people and network especially if they are company sponsored/led. Plus they do look good on the CV. They are usually fairly easy to find just a search online and you should find ones that are local to you or are even online only. I would say that these should not be the main part of you application, moreso something that enhances your CV. You ultimately want projects/bodies of work that showcase your skills.
+
 ## Preparing for Interviews:
 
 Most companies will have multiple rounds for interviews. These roughly fall into two categories:
