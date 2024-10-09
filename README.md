@@ -65,7 +65,7 @@ Here are some links to places with more ideas:
  	
 Note: Some projects will be harder than others. No shame in using a tutorial to complete them! The third bullet point is a link to open source projects that are geared towards beginners this is another greate way to show off your skills and passion (cringe). I will add a small caveat/aside. You are competing against other candidates. Choosing the more mainstream, easy to do projects, means you are less likely to stand out (what I mean is 1000 other people also did that project... probably choose something else).
 
-### Update: 
+### Update - 2023/4: 
 Since I made this guide the market has become a lot more competitive. I would strongly recommend more unique and challenging projects rather than the traditional To-Do app. Maybe speak to people and see what problems people are having and how you could solve them. Maybe a church needs a website that can handle donations? Help them out. This shows experience working with a client
 
 Also I would recommend more complete projects - create projects that cover multiple areas of domain knowledge e.g. Create a web app. learn to dockerise the application, and deploy it to a cloud environment, (SAFELY, you don't want to wake up to a £20,000 bill), like google clout platform (GCP) or Amazon Web Services (AWS). Document your process and how to run/connect to the project. In this example you've worked with a language for backend, for frontend, docker, and a clould technology like 
